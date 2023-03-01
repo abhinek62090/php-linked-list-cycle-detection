@@ -1,0 +1,4 @@
+Example 1:
+
+In the given input, the linked list has a cycle because the tail (i.e., -4) is connected to the second node (i.e., 2).
+ Therefore, we can apply the Floyd's cycle-finding algorithm to detect the cycle.

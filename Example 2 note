@@ -1,0 +1,5 @@
+In the given linked list, the head node has a value of 1 and the next node has a value of 2. The second node points back to the head node, which creates a cycle in the linked list.
+
+The input also specifies that the cycle starts at the 0th position, which means the head node is also the start of the cycle.
+
+Therefore, the linked list is cyclic, and the output should be true.
